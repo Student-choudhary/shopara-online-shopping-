@@ -1,0 +1,6 @@
+{
+  "name": "SHOPORA - Online Shopping",
+  "description": "Elegant e-commerce shopping platform with curated products, category filters, responsive cart, and backend API integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
